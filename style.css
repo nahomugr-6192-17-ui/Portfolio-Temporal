@@ -103,6 +103,16 @@ body {
   line-height: 1;
 }
 
+.toggle-icon i {
+  display: block;
+  width: 18px;
+  height: 18px;
+}
+
+.toggle-icon .fa-sun {
+  color: #ffffff;
+}
+
 .toggle-icon.spinning {
   transform: rotate(360deg);
 }
